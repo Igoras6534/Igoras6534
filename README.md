@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm intersted in Machine Learning and Web Development<br>📚 I'm currently learning MERN <br>🎯 Goals: Developing web applications connected to ML models <br>🎲 Fun fact: I'm also a member of  Software Engineering Scientific Circle</p>
+<p align="left">👨‍💻 I'm intersted in Machine Learning and Web Development<br>📚 I'm currently learning C# <br>🎯 Goals: Developing web applications connected to ML models <br>🎲 Fun fact: I'm also a member of  Software Engineering Scientific Circle</p>
 
 ###
 
