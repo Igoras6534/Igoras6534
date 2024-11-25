@@ -6,9 +6,8 @@
 
 <h2 align="left">👨‍💻 About Me</h2>  
 
-- 🌟 **Interests:** Machine Learning and Web Development  
-- 📚 **Currently Learning:** C#  
-- 🎯 **Goals:** Developing web applications integrated with ML models  
+- 🌟 **Interests:** Data Science and Machine Learning 
+- 🎯 **Goals:** Developing ML models  
 ---
 
 <h2 align="left">🚀 Technologies I Use</h2>  
