@@ -9,8 +9,6 @@
 - 🌟 **Interests:** Machine Learning and Web Development  
 - 📚 **Currently Learning:** C#  
 - 🎯 **Goals:** Developing web applications integrated with ML models  
-- 🎲 **Fun Fact:** I'm a proud member of the *Software Engineering Scientific Circle*  
-
 ---
 
 <h2 align="left">🚀 Technologies I Use</h2>  
