@@ -6,8 +6,13 @@
 
 <h2 align="left">👨‍💻 About Me</h2>  
 
-- 🌟 **Interests:** Data Science and Machine Learning 
-- 🎯 **Goals:** Developing ML models  
+- 🌟 **Interests:** Data Science and Machine Learning  
+- 🎯 **Goals:**  
+  - Develop my skills in Data Science and Machine Learning  
+  - Improve my ability to analyze data and build predictive models  
+  - Use technology as a tool to solve real-world problems  
+  - Continuously seek new challenges and opportunities for growth  
+
 ---
 
 <h2 align="left">🚀 Technologies I Use</h2>  
@@ -19,7 +24,9 @@
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />  
   <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" />  
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit-Learn logo" />  
 </div>  
 
 ---
@@ -33,4 +40,7 @@
   - Matplotlib <br>  
   - scikit-learn <br>  
   - Kaggle competitions<br>  
-</p>
+</p>  
+
+💡 I'm currently looking for new opportunities to grow, expand my knowledge, and gain practical experience. 🚀  
+
