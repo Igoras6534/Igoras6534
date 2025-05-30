@@ -39,7 +39,6 @@
   - Pandas, NumPy <br>  
   - Matplotlib <br>  
   - scikit-learn <br>  
-  - Kaggle competitions<br>  
 </p>  
 
 💡 I'm currently looking for new opportunities to grow, expand my knowledge, and gain practical experience. 🚀  
